@@ -1,0 +1,4 @@
+#Mon Dec 23 21:53:56 BRT 2019
+base.0=/home/hjrdev/dev/reactjs/rocketseat/certificate/mobile/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
