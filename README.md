@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/GQB2cZs/gympoint.png" alt="gympoint" border="0">
 <br>
 <br>
-Frontend Gympoint
+Fullstack Project Gympoint
 </h1>
 
 # Desafio final Bootcamp GoStack9
