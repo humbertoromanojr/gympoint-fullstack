@@ -16,6 +16,8 @@ Código referente à entrega do desafio final do Bootcamp GoStack 9.
 Para o desenvolvimento da aplicação foi utilizada a stack: Node.JS, ReactJS e React Native para o backend, front-end e mobile(android) respectivamente.
 
 ### BACK-END
+- 💹 **Node Js** — A web framework for Node Js
+
 -   [Node.js][nodejs]
 -   [Express](https://expressjs.com/)
 -   [nodemon](https://nodemon.io/)
@@ -37,6 +39,8 @@ Para o desenvolvimento da aplicação foi utilizada a stack: Node.JS, ReactJS e 
 
 
 ### FRONT-END
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
+
 -   [ReactJS](https://reactjs.org/)
 -   [Redux](https://redux.js.org/)
 -   [Redux-Saga](https://redux-saga.js.org/)
@@ -61,6 +65,9 @@ Para o desenvolvimento da aplicação foi utilizada a stack: Node.JS, ReactJS e 
 
 
 ### MOBILE
+- ⚛️ **React Js** — A JavaScript library for building user interfaces
+- ⚛️ **React Native** — A lib that provides a way to create native apps for Android and iOS
+
 -   [ReactJS](https://reactjs.org/)
 -   [React Native](https://facebook.github.io/react-native/)
 -   [styled-components](https://www.styled-components.com/)
