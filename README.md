@@ -1,3 +1,11 @@
+<h1 align="center">
+<br>
+  <img src="https://i.ibb.co/GQB2cZs/gympoint.png" alt="gympoint" border="0">
+<br>
+<br>
+Frontend Gympoint
+</h1>
+
 # Desafio final Bootcamp GoStack9
 
 Código referente à entrega do desafio final do Bootcamp GoStack 9.
@@ -45,6 +53,13 @@ Para o desenvolvimento da aplicação foi utilizada a stack: Node.JS, ReactJS e 
 -   [Reactotron](https://infinite.red/reactotron)
 
 
+## Demonstration
+
+<h1 align="center">
+  <img src="https://i.ibb.co/RB85dC7/gympoint-Web.gif" alt="gympoint-Web" border="0">
+</h1>
+
+
 ### MOBILE
 -   [ReactJS](https://reactjs.org/)
 -   [React Native](https://facebook.github.io/react-native/)
@@ -55,6 +70,13 @@ Para o desenvolvimento da aplicação foi utilizada a stack: Node.JS, ReactJS e 
 -   [Yup](https://www.npmjs.com/package/yup)
 -   [date-fns](https://date-fns.org/)
 -   [Reactotron](https://infinite.red/reactotron)
+
+
+## Demonstration
+
+<div align="center">
+  <img src="https://i.ibb.co/vzSCpMf/gympoint-Mobile.gif" width="300" alt="gympoint-Mobile" border="0">
+</div>
 
 
 ## Plataforma do aplicativo
@@ -99,3 +121,7 @@ Para iniciar o Bundle
 
 Para rodar a aplicação
 `yarn dev`
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
